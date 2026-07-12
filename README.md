@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
