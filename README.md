@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
