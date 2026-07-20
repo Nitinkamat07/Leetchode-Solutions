@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0182-duplicate-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
