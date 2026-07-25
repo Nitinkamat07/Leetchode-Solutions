@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0342-power-of-four) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
 | ------- |
