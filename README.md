@@ -128,4 +128,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
