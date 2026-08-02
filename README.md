@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -152,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
