@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0011-container-with-most-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0125-valid-palindrome) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
