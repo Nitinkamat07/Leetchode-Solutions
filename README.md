@@ -160,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0112-path-sum) |
+| [3310-remove-methods-from-project](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0112-path-sum) |
+| [3310-remove-methods-from-project](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
