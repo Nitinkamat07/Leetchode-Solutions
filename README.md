@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0620-not-boring-movies) |
 ## Dynamic Programming
 |  |
 | ------- |
