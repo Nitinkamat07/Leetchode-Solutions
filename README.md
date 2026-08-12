@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0202-happy-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3731-find-missing-elements) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1140-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
