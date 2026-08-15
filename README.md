@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0202-happy-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
