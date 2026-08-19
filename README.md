@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0125-valid-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
