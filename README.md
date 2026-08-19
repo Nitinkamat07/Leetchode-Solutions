@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2029-stone-game-ix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0202-happy-number) |
+| [1386-cinema-seat-allocation](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
