@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1140-stone-game-ii) |
