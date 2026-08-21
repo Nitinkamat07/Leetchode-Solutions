@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0069-sqrtx) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
