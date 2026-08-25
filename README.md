@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
 |  |
 | ------- |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0518-coin-change-ii) |
+## Matrix
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 <!---LeetCode Topics End-->
