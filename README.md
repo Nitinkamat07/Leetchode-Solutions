@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3360-stone-removal-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
