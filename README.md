@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0835-image-overlap) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
