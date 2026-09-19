@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0342-power-of-four) |
