@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0202-happy-number) |
+| [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0112-path-sum) |
+| [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -486,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
