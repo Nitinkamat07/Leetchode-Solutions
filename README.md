@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0292-nim-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0657-robot-return-to-origin](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
