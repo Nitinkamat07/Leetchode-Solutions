@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1929-concatenation-of-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
