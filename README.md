@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0657-robot-return-to-origin](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0856-score-of-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
