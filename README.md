@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0301-remove-invalid-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0856-score-of-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
