@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0202-happy-number) |
 | [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
