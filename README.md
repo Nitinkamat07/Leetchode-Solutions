@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1406-stone-game-iii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0112-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -546,12 +549,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nitinkamat07/Leetchode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bracket Sequences
